@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tech-Jokes 2015</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="initJoke">Welcome, please take some time to enjoy tech-jokes.</string>
+    <string name="knock">Just tap "Tell a Joke".</string>
+    <string name="another">Tell a Joke</string>
+
+</resources>
